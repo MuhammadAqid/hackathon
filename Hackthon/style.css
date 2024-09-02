@@ -1,0 +1,14 @@
+.nav-wrapper{
+    margin-left: 10rem;
+}
+
+.nav-wrapper li{
+    margin-left: 30px;
+}
+.bttn-secondary{
+    border: none;
+}
+
+.hero-tittle{
+    padding-top: 5rem;
+}
